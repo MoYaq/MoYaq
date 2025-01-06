@@ -1,9 +1,15 @@
 Hi, I’m @MoYaq
+
 I’m interested in coding
+
 I’m currently learning python
+
 I’m looking to collaborate on python projects
+
 How to reach me just inbox me directly
+
 Pronouns: He/His/Him
+
 Fun fact: Learning and having fun
 
 <!---
