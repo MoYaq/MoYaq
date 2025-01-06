@@ -5,7 +5,7 @@ ___
 
 I’m a passionate PharmD student and aspiring tech-enthusiast eager to harness the power of technology to drive innovation in healthcare. I’m currently on a journey to learn and equip myself with digital skills such as Python programming, Machine Learning (ML), Artificial Intelligence (AI), data analysis, and automation. These skills will complement my pharmaceutical knowledge, particularly in my aspiring specialities: oncology and cardiology.
 
-> **My view💬:**The world is continually evolving in technology, and those without digital skills will be the "illiterates" of the next generation.."*
+> **My view💬:** The world is continually evolving in technology, and those without digital skills will be the "illiterates" of the next generation.."*
 
 
 
