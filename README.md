@@ -1,3 +1,6 @@
+#Hi there, I’m Moyaq 👋
+> PharmD Student | Tech Enthusiast | Future Innovator in Healthcare
+
 [![Email](https://img.shields.io/badge/Email-legendmohammed3585%40gmail.com-red)](mailto:legendmohammed3585@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yakubu%20Mohammed-blue)](http://linkedin.com/in/yakubu-mohammed-559470236)
 <!---
