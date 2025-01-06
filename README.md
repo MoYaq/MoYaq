@@ -1,6 +1,7 @@
 **Hi there, I'm Moyaq 👋**
 
-*||PharmD Student ||Tech Enthusiast || Aspiring Healthcare Innovator||*
+||PharmD Student ||Tech Enthusiast || Aspiring Healthcare Innovator||
+
 Welcome to my GitHub profile! I’m a passionate PharmD student and aspiring tech enthusiast eager to harness the power of technology to drive innovation in healthcare. I’m currently on a journey to learn and equip myself with digital skills such as Python programming, Machine Learning (ML), Artificial Intelligence (AI), data analysis, and automation. These skills will complement my pharmaceutical knowledge, particularly in my aspiring specialties: oncology and cardiology.
 
 > *💬The world is ever-changing, and those without digital skills will be the "illiterates" of the next generation."*
