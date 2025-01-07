@@ -1,5 +1,5 @@
 # **Hi there, I'm Moyaq 👋**
-### ||PharmD Student ||Tech-Enthusiast || Aspiring Healthcare Innovator||
+***||PharmD Student ||Tech-Enthusiast || Aspiring Healthcare Innovator||***
 ___
 **Welcome to my GitHub profile😁🤗**
 
