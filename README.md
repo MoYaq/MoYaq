@@ -8,7 +8,7 @@ I’m a passionate PharmD student and aspiring tech-enthusiast eager to harness 
 * 🤖 Create AI-powered tools for personalized medicine
 * 💊 Optimize patient care and medication management using automation
 
-> **My view💬:** The world is continually evolving in technology, and those without digital skills will be the "illiterates" of the next generation.."*
+> **My view💬:** The world is continually evolving in technology, and those without digital skills will be the "illiterates" of the next generation.
 
 ### 🌟Currently Working (Learning) On:
 	Learning Python programming through a 90-day Python challenge I recently joined.
